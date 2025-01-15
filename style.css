@@ -65,10 +65,10 @@ body {
 
 .control-bar {
     display: flex;
-    gap: 0px;
+    gap: 30px;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 18px
+    margin-top: 16px
 }
 
 .control-bar img {
