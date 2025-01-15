@@ -89,7 +89,4 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  #music-icon {
-    height: 125px;
-    width: 125px;
 }
