@@ -16,7 +16,7 @@ body {
 
 .music-player {
     background: transparent;
-    height: 15%
+    height: 40%
     width: 100%;
     max-width: 1500px; 
     padding: 0px;
@@ -43,7 +43,8 @@ body {
     gap: 4px;
     margin: 0px;
     padding: 0px;
-    max-width: 1500px
+    max-width: 1500px;
+    height: 20%;
 }
 .info h1 {
     margin: 0;
