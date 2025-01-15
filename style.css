@@ -84,3 +84,7 @@ body {
     height: 50px; /* Adjust height of waveform */
     length: 50px
 }
+
+.no-scroll {
+  position: fixed; 
+}
