@@ -24,7 +24,7 @@ body {
     box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
     display: flex;
     align-items: left;
-    gap: 0px;
+    gap: 7px;
 }
 
 #music-icon {
@@ -68,7 +68,7 @@ body {
     gap: 20px;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 16px
+    margin-top: 15px
 }
 
 .control-bar img {
