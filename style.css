@@ -80,9 +80,12 @@ body {
 .control-bar img:hover {
     transform: scale(1.1);
 }
+
 #waveform {
     height: 50px; /* Adjust height of waveform */
     length: 50px
+}
+
 @media screen and (max-width: 768px) {
   #music-icon {
     height: 125px;
