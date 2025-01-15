@@ -68,7 +68,8 @@ body {
     gap: 20px;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 20px
+    margin-top: 10px
+    margin-left: 25px
 }
 
 .control-bar img {
