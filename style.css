@@ -39,6 +39,10 @@ body {
     height: 20%
 }
 
+.wrapper {
+    height: 50%
+}
+
 .info {
     flex: 1;
     flex-grow: 1;
